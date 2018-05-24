@@ -1,2 +1,2 @@
 # recaptchav2
-Google recaptchav2 for php community
+Sample recaptcha v2 code for PHP community
